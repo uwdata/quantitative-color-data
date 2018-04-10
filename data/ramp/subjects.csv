@@ -1,0 +1,57 @@
+subject;gender;age;palette_order;os;browser
+59b05757a387ff28009469d1;Male;35;oranges,blues,greys,greens;Windows 8.1;Chrome 60.0.3112.113
+59b05784a387ff28009469f1;Male;31;greys,oranges,greens,blues;Windows 10;Firefox 55.0
+59b057a3a387ff2800946a0d;Female;35;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b057c3a387ff2800946a38;Male;43;blues,greens,oranges,greys;Windows 8.1;Firefox 55.0
+59b057c4a387ff2800946a3b;Male;32;oranges,blues,greys,greens;Windows 10;Firefox 55.0
+59b05827a387ff2800946b12;Male;31;greys,oranges,greens,blues;Windows 7;Firefox 55.0
+59b0593ca387ff2800946d8a;Female;33;oranges,blues,greys,greens;Windows 10;Chrome 60.0.3112.113
+59b05977a387ff2800946df7;Female;60;greys,oranges,greens,blues;Windows 8.1;Chrome 60.0.3112.113
+59b05a43a387ff2800946eb6;Male;25;greens,greys,blues,oranges;Windows XP;Chrome 49.0.2623.112
+59b05ab8a387ff2800946f32;Female;27;blues,greens,oranges,greys;Windows 7;Firefox 55.0
+59b05b1aa387ff2800946fb0;Female;39;oranges,blues,greys,greens;Windows 7;Chrome 60.0.3112.113
+59b05e32a387ff28009471b4;Female;31;greys,oranges,greens,blues;Windows 7;Chrome 61.0.3163.79
+59b0617aa387ff280094729a;Female;24;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b06940a387ff2800947347;Male;32;blues,greens,oranges,greys;Windows 10;Chrome 60.0.3112.113
+59b06a93a387ff28009473c9;Female;24;oranges,blues,greys,greens;Windows 10;Chrome 59.0.3071.115
+59b0816fa387ff28009474a1;Male;71;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b0b313a387ff280094754e;Male;46;blues,greens,oranges,greys;Windows 10;Chrome 60.0.3112.113
+59b0b32fa387ff2800947556;Female;68;blues,greens,oranges,greys;Windows 10;Chrome 60.0.3112.113
+59b0b349a387ff2800947561;Female;39;oranges,blues,greys,greens;iOS 10.2;Chrome 60.0.3112.89
+59b0b359a387ff280094756c;Male;19;greys,oranges,greens,blues;Windows 10;Chrome 60.0.3112.113
+59b0b35da387ff2800947571;Female;36;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b0b362a387ff280094757d;Female;35;blues,greens,oranges,greys;Android 7.0;Samsung Browser 5.4
+59b0b365a387ff2800947583;Female;24;greys,oranges,greens,blues;Mac OS 10.11.6;Safari 10.1.2
+59b0b3a5a387ff2800947609;Male;35;greens,greys,blues,oranges;Windows 7;Firefox 55.0
+59b0b3b7a387ff2800947639;Female;24;oranges,blues,greys,greens;Windows 7;Chrome 60.0.3112.113
+59b0b3baa387ff2800947643;Female;41;oranges,blues,greys,greens;Windows 10;Firefox 55.0
+59b0b3cda387ff2800947688;Female;40;greys,oranges,greens,blues;Windows 10;Chrome 60.0.3112.113
+59b0b3d5a387ff28009476a4;Female;33;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b0b3eea387ff2800947701;Female;29;blues,greens,oranges,greys;Mac OS 10.11.4;Chrome 60.0.3112.101
+59b0b3f3a387ff2800947714;Female;28;oranges,blues,greys,greens;Windows 10;Chrome 60.0.3112.113
+59b0b3fea387ff2800947749;Female;51;greys,oranges,greens,blues;Windows 7;Chrome 60.0.3112.101
+59b0b40ba387ff280094777b;Female;42;greens,greys,blues,oranges;Windows 10;Chrome 61.0.3163.79
+59b0b416a387ff28009477af;Male;32;blues,greens,oranges,greys;Chromium OS 9460.60.0;Chrome 59.0.3071.91
+59b0b427a387ff280094780b;Female;59;greys,oranges,greens,blues;Windows 10;Chrome 60.0.3112.113
+59b0b42da387ff2800947825;Female;30;greys,oranges,greens,blues;Windows 10;Chrome 60.0.3112.113
+59b0b442a387ff2800947895;Female;43;greens,greys,blues,oranges;iOS 10.3.3;Mobile Safari 10.0
+59b0b458a387ff2800947916;Female;43;blues,greens,oranges,greys;Windows 7;Chrome 60.0.3112.113
+59b0b48fa387ff2800947a62;Male;36;oranges,blues,greys,greens;Windows Vista;Chrome 49.0.2623.112
+59b0b496a387ff2800947a93;Female;50;greys,oranges,greens,blues;Android 4.4.2;Chrome 60.0.3112.116
+59b0b4bfa387ff2800947bd7;Female;42;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
+59b0b4d0a387ff2800947c4d;Female;50;blues,greens,oranges,greys;Windows 10;Chrome 60.0.3112.113
+59b0b538a387ff2800947f95;Male;35;oranges,blues,greys,greens;Windows 7;Chrome 60.0.3112.113
+59b0b544a387ff2800947fed;Female;44;greys,oranges,greens,blues;Windows 10;Chrome 60.0.3112.113
+59b0b657a387ff280094851f;Female;21;greens,greys,blues,oranges;Chromium OS 9460.73.1;Chrome 59.0.3071.134
+59b0b662a387ff2800948544;Female;43;blues,greens,oranges,greys;iOS 10.3.3;Mobile Safari 10.0
+59b0b663a387ff2800948547;Female;34;oranges,blues,greys,greens;Windows 7;Chrome 60.0.3112.113
+59b0b6d8a387ff2800948681;Female;44;greys,oranges,greens,blues;Mac OS 10.6.8;Chrome 49.0.2623.112
+59b0b72da387ff280094871b;;;greens,greys,blues,oranges;Windows 7;Firefox 55.0
+59b0b9d0a387ff2800948adb;Female;32;blues,greens,oranges,greys;Windows 10;Chrome 60.0.3112.113
+59b0ba99a387ff2800948b34;Male;35;oranges,blues,greys,greens;Windows 10;Chrome 60.0.3112.113
+59b0c06ba387ff2800948c51;Male;32;oranges,blues,greys,greens;Windows 7;Chrome 60.0.3112.113
+59b0c149a387ff2800948c85;Female;32;greys,oranges,greens,blues;Windows 10;Firefox 55.0
+59b0c222a387ff2800948ceb;Male;57;greens,greys,blues,oranges;Windows 7;Chrome 60.0.3112.113
+59b0c284a387ff2800948d1d;Male;28;blues,greens,oranges,greys;Windows 8.1;Chrome 60.0.3112.113
+59b0c2cda387ff2800948d49;Female;36;blues,greens,oranges,greys;Windows 7;Firefox 55.0
+59b0c420a387ff2800948f2f;Male;26;greens,greys,blues,oranges;Windows 10;Chrome 60.0.3112.113
